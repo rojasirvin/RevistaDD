@@ -224,9 +224,6 @@ Se propone una forma de financiamiento por medio de donaciones voluntarias mensu
 - Sueldo del corrector
 
 Se propone una donación voluntaria mínima sugerida de $500 pesos mensuales y se invita a que, de acuerdo con sus posibilidades económicas, los integrantes hagan una aportación mayor
-
-Los ingresos acumulados no gastados en un mes dado se irán acumulandoara para solventar otros gastos
-
 ---
 
 class: inverse, middle, center
