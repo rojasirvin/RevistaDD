@@ -247,25 +247,27 @@ Cuatro de ellos serán de #DD y tres serán externos
 
 1. Pedimos a los votantes considerar que entre sus cuatro personas elegidas haya balance tanto de género como de área de especialidad, de modo que el Consejo refleje la diversidad que nos conforma
 
-1. Cada consejero externo estará en su cargo por XX años, con posibilidad a reelegirse XX veces
+1. Los dos consejeros más votados estarán en su puesto por dos años y los siguientes dos por un año y se podrán reelegir indefinidamente
 
 ---
 
 # Para proponer miembros externos para integrar el Consejo Editorial
 
-1. Los integrantes de #DD propondrán uno o varios miembros externos **antes del viernes 12 de febrero a las 20:00**
+1. Los integrantes de #DD propondrán uno o varios miembros externos **antes del viernes 12 de febrero a las 20:00** por correo electrónico
 
-1. La elección de los miembros externos se realizará una vez elegidos y dados a conocer los consejeros internos, procederemos
+1. La elección de los miembros externos se realizará una vez elegidos y dados a conocer los consejeros internos
 
-1. Método *GABORDA*: 4 puntos a su primera opción, 2 puntos a su segunda opción y 1 punto a su tercera opción
+1. Método *GABORDA*: cada integrantes podrá votar por 9 personas y deberá asignar 4 puntos a tres personas, 2 puntos a tres personas y 1 punto a tres personas
 
 1. El orden que resulte de los candidatos externos se empleará para realizar una invitación formal a cada persona de la lista
 
-1. Cada consejero externo estará en su cargo por XX años, con posibilidad a reelegirse XX veces
+1. Cada consejero externo estará en su cargo por 2 años, con posibilidad a reelegirse indefinidamente
 
 ---
 
 # Lista actual de propuestas
+
+Las siguientes personas han sido propuestas por la comisión:
 
 - Omar García Ponce
 - Federico Navarrete
@@ -285,15 +287,17 @@ Cuatro de ellos serán de #DD y tres serán externos
 
 # Para elegir el nombre de **LA REVISTA**
 
+Los siguientes nombres han sido propuestas por la comisión:
+
 1. Cada integrante de #DD podrá proponer un nombre para la revista. El nombre debe reflejar las características propuestas para el proyecto y puede o no hacer referencia a #DD
 
 1. La propuesta debe incluir una breve motivación del significado del nombre propuesto
 
 1. Se recibirán las propuestas de los integrantes **hasta el viernes 12 de febrero a las 20:00**, por correo electrónico
 
-1. La comisión de la revista seleccionará 4 propuestas finalistas
+1. En una primera etapa, todos los posibles nombres serán considerados. Cada integrante podrá votar por los cuatro nombres favoritos (un voto a cada uno) para pasar a una final
 
-1. La elección final del nombre se llevará a cabo usando el mismo método
+1. Para la votación final se empleará el método GABORDA. Cada integrante asignará 5 puntos a su primera opción, 3 puntos a su segunda, 2 puntos a su tercera y 1 punto a su cuarta opción
 
 ---
 
@@ -309,7 +313,7 @@ Cuatro de ellos serán de #DD y tres serán externos
 - Comunal
 - Deliberada
 - Salmo
-
+- Tómbola
 
 
 ---
