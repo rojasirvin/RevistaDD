@@ -130,11 +130,8 @@ La publicación está abierta a la difusión de piezas informativas y formativas
 
 - Columnas de opinión semanales y quincenales
 - Entradas de reflexión sobre eventos de coyuntura
-- Comunicados de #DD
 
 **Dossiers temáticos**. Los dossiers serán comisionados a comités especiales para su coordinación. Habrá dos dossiers por año
-
-**Blog**. Un blog para integrantes y simpatizantes de #DD
 
 **LA REVISTA** tendrá la suficiente flexibilidad para permitir hospedar otros proyectos a propuesta de los integrantes y previa aprobación del Consejo Editorial. Estos pueden incluir:
 
@@ -166,8 +163,7 @@ Buscamos un tratamiento **práctico** de los temas públicos, con **suficiente r
 - Organizar la recolección de fondos al interior de #DD
 - Rendir cuentas de la situación de las finanzas de **LA REVISTA** a la asamblea de #DD
 - Ejecutar los pagos que resulten de las actividades de **LA REVISTA**
-- Se propone que este sea un puesto **honorario** para un integrante de #DD
-
+- Se propone que esta tarea sea desempeñada por el tesorero de #DD
 
 ---
 
@@ -175,7 +171,7 @@ Buscamos un tratamiento **práctico** de los temas públicos, con **suficiente r
 
 **Editor interno**
 
-- Fungirá como el puente entre el Consejo y el corrector
+- Fungirá como el puente entre el Consejo y el corrector y entre el Consejo y la asamblea de #DD
 - Dará seguimiento a la entrega de los textos por parte de los autores
 - Administrará el correo electrónico de **LA REVISTA**
 - Comunicará las decisiones del Consejo a la asamblea de #DD
@@ -187,6 +183,11 @@ Buscamos un tratamiento **práctico** de los temas públicos, con **suficiente r
 **Corrector**
 
 - Corregirá la ortografía y estilo de los textos
+- Alimentar la página con el contenido
+- Fungirá como el CM de **LA REVISTA**
+- Apoyar al editor a dar seguimiento a la entrega de los textos por parte de los autores
+
+
 
 
 ---
@@ -198,14 +199,14 @@ Buscamos un tratamiento **práctico** de los temas públicos, con **suficiente r
 |Concepto| Mensual| Anual
 |:---|:---:|:---:|
 |Diseño web | Un solo pago |40,000|
-| Constitución de AC|Un solo pago | 15,000|
+| Constitución de AC|Un solo pago | 12,000|
 |Sueldo del corrector|12,000|144,000|
 |Dominio del sitio |66.58|799|
 |Hosting|166.66|2,000|
 
 --
 
-Es decir, se espera un gasto inicial único de $45,000 pesos y un gasto mensual promedio de $12,233 pesos
+Es decir, se espera un gasto inicial único de $52,000 pesos y un gasto mensual promedio de $12,233 pesos
 
 ---
 
