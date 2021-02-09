@@ -41,7 +41,7 @@ xfun::pkg_load2(c('base64enc', 'htmltools', 'mime'))
 ]
 
 .author[
-### <br> <br> <br> <br> [democraciadeliberada.org](https://democraciadeliberada.org/) <br>
+### <br> <br> <br> <br> [democraciadeliberada.org](https://democraciadeliberada.org/) <br> 9 de febrero de 2021
 ]
 
 ---
@@ -144,6 +144,19 @@ La publicación está abierta a la difusión de piezas informativas y formativas
 # Público objetivo
 
 Buscamos un tratamiento **práctico** de los temas públicos, con **suficiente rigor** para sostener las posturas que se comunican, pero lo **suficientemente accesible** para un público diverso y no especializado
+
+Nos dirigiremos a un público **politizado**, dispuesto a escuchar y ansioso por profundizar en temas complejos
+
+LA REVISTA se dirigirá a un público **dispuesto a contrastar** sus puntos de vista con otros con los que no coincide, un público abierto a la **reflexión**, el **debate** y la **autocrítica**
+
+El espíritu de la revista se alinea con uno de los principios de #DD:
+
+<blockquote>
+Construimos posiciones claras, públicas y deliberadas sobre asuntos concretos, por lo que también procuraremos dejar espacio para su reconsideración periódica
+.right[-- <cite>#DD</cite>]
+</blockquote>
+
+
 
 ---
 
@@ -281,7 +294,10 @@ Las siguientes personas han sido propuestas por la comisión:
 - Marcela Turati
 - Jorge Zepeda Patterson
 - Daniela Rea 
-
+- Etienne Von Bertrab
+- Javier Buenrrostro
+- Natalia Mendoza Rockwell
+- Fernanda Melchor
 
 ---
 
